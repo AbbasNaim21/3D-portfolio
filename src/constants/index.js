@@ -127,10 +127,10 @@ const technologies = [
     name: "Firebase",
     icon: firebase,
   },
-  // {
-  //   name: "Android",
-  //   icon: android,
-  // },
+  {
+    name: "Android",
+    icon: android,
+  },
   {
     name: "Next Js",
     icon: nextjs,
