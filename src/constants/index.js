@@ -123,10 +123,10 @@ const technologies = [
     name: "Bootstrap",
     icon: bootstrap,
   },
-  // {
-  //   name: "Firebase",
-  //   icon: firebase,
-  // },
+  {
+    name: "Firebase",
+    icon: firebase,
+  },
   // {
   //   name: "Android",
   //   icon: android,

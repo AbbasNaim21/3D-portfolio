@@ -32,11 +32,11 @@ const Tech = () => {
     <div className="flex flex-row flex-wrap justify-center gap-10">
       {technologies.map((technology) => (
         <div className="w-28 h-28" key={technology.name}>
-          {isMobile ? (
+          {/* {isMobile ? (
             <img src={technology.icon} alt={technology.name} className="rounded-full w-full h-full object-contain p-3 border-[2px] border-white bg-white" />
-          ) : (
-            <BallCanvas icon={technology.icon} />
-          )}
+          ) : ( */}
+          <BallCanvas icon={technology.icon} />
+          {/* )} */}
         </div>
       ))}
     </div>
