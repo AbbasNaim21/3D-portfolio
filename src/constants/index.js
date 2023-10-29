@@ -530,6 +530,10 @@ const projects = [
         name: "tailwind",
         color: "green-text-gradient",
       },
+      {
+        name: "redux",
+        color: "blue-text-gradient",
+      },
     ],
     image: sumz,
     source_code_link: "https://github.com/AbbasNaim21/ai-article-summarizer",
