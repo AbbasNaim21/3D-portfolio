@@ -502,7 +502,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: feedback,
+    image: sumz,
     source_code_link: "https://github.com/AbbasNaim21/ai-article-summarizer",
     visit_link: "https://ai-article-summarizerr.netlify.app/",
   },
