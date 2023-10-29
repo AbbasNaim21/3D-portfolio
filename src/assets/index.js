@@ -7,6 +7,7 @@ import github from "./github.png";
 import links from "./links.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import sumz from "./sumz.png";
 
 import css from "./tech/css.png";
 import android from "./tech/android.png";
@@ -56,6 +57,7 @@ export {
   gerich,
   dalleClone,
   feedback,
+  sumz,
   houseMarketplace,
   Tshirt,
   adminPanel,

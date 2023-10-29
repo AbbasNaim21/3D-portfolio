@@ -5,6 +5,7 @@ import {
   gerich,
   dalleClone,
   feedback,
+  sumz,
   houseMarketplace,
   Tshirt,
   adminPanel,
@@ -13,13 +14,13 @@ import {
   android,
   nextjs,
   firebase,
-  // wordpress,
-  // clang,
-  // typescript,
-  // java,
-  // angular,
-  // php,
-  // mysql,
+  wordpress,
+  clang,
+  typescript,
+  java,
+  angular,
+  php,
+  mysql,
   bootstrap,
   mobile,
   backend,
@@ -78,6 +79,34 @@ const technologies = [
   {
     name: "HTML 5",
     icon: html,
+  },
+  {
+    name: "Wordpress",
+    icon: wordpress,
+  },
+  {
+    name: "Lang C",
+    icon: clang,
+  },
+  {
+    name: "Typescript",
+    icon: typescript,
+  },
+  {
+    name: "Java",
+    icon: java,
+  },
+  {
+    name: "Angular",
+    icon: angular,
+  },
+  {
+    name: "PHP",
+    icon: php,
+  },
+  {
+    name: "MySql",
+    icon: mysql,
   },
   {
     name: "CSS 3",
