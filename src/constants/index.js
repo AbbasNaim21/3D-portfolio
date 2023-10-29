@@ -484,6 +484,28 @@ const projects = [
     source_code_link: "https://github.com/AbbasNaim21/feedback-app",
     visit_link: "#",
   },
+  {
+    name: "Sumz AI",
+    description:
+      "Sumz, built with Vite, React, and Tailwind CSS, employs AI through Rapid API to summarize articles from provided URLs.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Rapid API",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+    ],
+    image: feedback,
+    source_code_link: "https://github.com/AbbasNaim21/ai-article-summarizer",
+    visit_link: "https://ai-article-summarizerr.netlify.app/",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
