@@ -39,6 +39,7 @@ import {
   logoETI,
   logoMe,
   threejs,
+  carhub,
 } from "../assets";
 
 export const navLinks = [
@@ -538,6 +539,32 @@ const projects = [
     image: sumz,
     source_code_link: "https://github.com/AbbasNaim21/ai-article-summarizer",
     visit_link: "https://ai-article-summarizerr.netlify.app/",
+  },
+  {
+    name: "Car Hub",
+    description:
+      "Car Hub, car showcase project, where users can rent, buy & sell, displaying image from rapid API",
+    tags: [
+      {
+        name: "reactjs",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Rapid API",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: carhub,
+    source_code_link: "https://github.com/AbbasNaim21/car-showcase",
+    visit_link: "https://mycarr-showcase.vercel.app/",
   },
 ];
 

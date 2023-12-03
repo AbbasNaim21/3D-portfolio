@@ -8,7 +8,7 @@ import links from "./links.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import sumz from "./sumz.png";
-
+import carhub from "./carhub.png";
 import css from "./tech/css.png";
 import android from "./tech/android.png";
 import angular from "./tech/angular.png";
@@ -78,6 +78,7 @@ export {
   creator,
   mobile,
   web,
+  carhub,
   github,
   menu,
   close,
