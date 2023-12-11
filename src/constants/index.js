@@ -570,7 +570,7 @@ const projects = [
   {
     name: "Jobs Finder",
     description:
-      "React Native app, based on restful Api RapidApi, displaying all jobs available, built with Expo",
+      "React Native mobile app, based on restful Api RapidApi, displaying all jobs available, built with Expo",
     tags: [
       {
         name: "react native",
@@ -590,8 +590,9 @@ const projects = [
       },
     ],
     image: jobs,
-    source_code_link: "hhttps://github.com/AbbasNaim21/job-finder-mobile",
-    visit_link: "https://expo.dev/accounts/abbasnaim21/projects/job-finder/builds/1a84d793-59de-40e4-98b0-d9f6f89a3ea1",
+    source_code_link: "https://github.com/AbbasNaim21/job-finder-mobile",
+    visit_link:
+      "https://expo.dev/accounts/abbasnaim21/projects/job-finder/builds/1a84d793-59de-40e4-98b0-d9f6f89a3ea1",
   },
 ];
 
