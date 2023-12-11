@@ -1,6 +1,7 @@
 import {
   heavenShop,
   gpt3,
+  jobs,
   githubFinder,
   gerich,
   dalleClone,
@@ -543,7 +544,7 @@ const projects = [
   {
     name: "Car Hub",
     description:
-      "Car Hub, car showcase project, where users can rent, buy & sell, displaying image from rapid API",
+      "Car Hub, car showcase project, where users can rent, buy & sell, displaying image from rapid API.",
     tags: [
       {
         name: "reactjs",
@@ -565,6 +566,32 @@ const projects = [
     image: carhub,
     source_code_link: "https://github.com/AbbasNaim21/car-showcase",
     visit_link: "https://mycarr-showcase.vercel.app/",
+  },
+  {
+    name: "Jobs Finder",
+    description:
+      "React Native app, based on restful Api RapidApi, displaying all jobs available, built with Expo",
+    tags: [
+      {
+        name: "react native",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Rapid API",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "Expo",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: jobs,
+    source_code_link: "hhttps://github.com/AbbasNaim21/job-finder-mobile",
+    visit_link: "https://expo.dev/accounts/abbasnaim21/projects/job-finder/builds/1a84d793-59de-40e4-98b0-d9f6f89a3ea1",
   },
 ];
 

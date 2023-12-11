@@ -37,6 +37,7 @@ import logoETI from "./company/logoETI.png";
 
 import heavenShop from "./heavenShop.png";
 import gpt3 from "./gpt3.png";
+import jobs from "./jobs.jpg";
 import githubFinder from "./githubFinder.png";
 import gerich from "./gerich.png";
 import dalleClone from "./dalleClone.png";
@@ -74,6 +75,7 @@ export {
   clang,
   bootstrap,
   logo,
+  jobs,
   backend,
   creator,
   mobile,
