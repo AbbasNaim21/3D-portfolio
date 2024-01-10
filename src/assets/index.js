@@ -47,6 +47,7 @@ import metaversus from "./metaversus.png";
 import promptopia from "./promptopia.png";
 import Tshirt from "./Tshirt.png";
 import adminPanel from "./adminPanel.png";
+import threads from "./threads.png";
 // import carrent from "./carrent.png";
 // import jobit from "./jobit.png";
 // import tripguide from "./tripguide.png";
@@ -54,6 +55,7 @@ import adminPanel from "./adminPanel.png";
 export {
   heavenShop,
   gpt3,
+  threads,
   githubFinder,
   gerich,
   dalleClone,

@@ -41,6 +41,7 @@ import {
   logoMe,
   threejs,
   carhub,
+  threads,
 } from "../assets";
 
 export const navLinks = [
@@ -593,6 +594,32 @@ const projects = [
     source_code_link: "https://github.com/AbbasNaim21/job-finder-mobile",
     visit_link:
       "https://expo.dev/accounts/abbasnaim21/projects/job-finder/builds/1a84d793-59de-40e4-98b0-d9f6f89a3ea1",
+  },
+  {
+    name: "Threads Clone",
+    description:
+      "Nextjs 14 with React Component designed with tailwindcss, Fullstack web app, using mongoDB, zod, and clerk auth.",
+    tags: [
+      {
+        name: "Next.js 14",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Reactjs",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "green-text-gradient",
+      },
+      {
+        name: "TailwindCSS",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: threads,
+    source_code_link: "https://github.com/AbbasNaim21/threads_clone",
+    visit_link: "https://threadss-clonee.vercel.app/",
   },
 ];
 
