@@ -48,6 +48,7 @@ import promptopia from "./promptopia.png";
 import Tshirt from "./Tshirt.png";
 import adminPanel from "./adminPanel.png";
 import threads from "./threads.png";
+import hilink from "./DreamTravels.png";
 // import carrent from "./carrent.png";
 // import jobit from "./jobit.png";
 // import tripguide from "./tripguide.png";
@@ -55,6 +56,7 @@ import threads from "./threads.png";
 export {
   heavenShop,
   gpt3,
+  hilink,
   threads,
   githubFinder,
   gerich,

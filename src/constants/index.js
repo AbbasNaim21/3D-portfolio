@@ -42,6 +42,7 @@ import {
   threejs,
   carhub,
   threads,
+  hilink,
 } from "../assets";
 
 export const navLinks = [
@@ -620,6 +621,28 @@ const projects = [
     image: threads,
     source_code_link: "https://github.com/AbbasNaim21/threads_clone",
     visit_link: "https://threadss-clonee.vercel.app/",
+  },
+  {
+    name: "Dream Travels",
+    description:
+      "Nextjs 14 with React Component designed with tailwindcss, responsive.",
+    tags: [
+      {
+        name: "Next.js 14",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Reactjs",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "TailwindCSS",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: hilink,
+    source_code_link: "https://github.com/AbbasNaim21/dream_Travels",
+    visit_link: "https://dream-travels.vercel.app/",
   },
 ];
 
